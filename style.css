@@ -1,0 +1,181 @@
+#body{background-color: rgb(91, 86, 172);
+}
+#my{font-size: 40px;
+}
+#t{
+background-color:tomato;
+    border-radius:30px;
+    color: beige;
+}
+#s{
+    font-size: 30px;
+}
+#s:hover{
+    color:red;
+}
+#s:active{
+color:yellow;
+}
+#v{
+    font-size: 30px;
+    }
+#v:hover{
+    color:blanchedalmond;
+}
+#v:active{
+    color:rgba(96, 24, 164, 0.504)
+}
+#n{
+    font-size: 30px;
+}
+#n:hover{
+    color:yellow;
+}
+#n:active{
+    color:dimgrey;
+}
+#shiv{
+    background-color:rgb(94, 63, 12);
+    border-radius: 30px;
+    color:white;
+}
+#chinni{
+    background-color: black;
+    color: beige;
+    
+
+}
+#shiva{
+    border-radius: 30px;
+    
+}
+#vizag{
+    color:whitesmoke;
+}
+#noise{
+    border-radius: 30px;
+}
+#beach{
+    color:white;
+}
+#kurusura{
+    color:beige;
+}
+#go,#good{
+    background-color:rgb(100, 98, 223);
+    color:white;
+    font-display: white;  
+    border-radius: 10px;
+}
+
+}
+#bad,#run{
+    color:black;
+}
+
+#body1{
+    background-color:rgb(61, 26, 33);
+}
+#h12{
+    background-color: rgb(4, 0, 255);
+    border-radius: 40px;
+}
+#in{
+    background-color: rgb(246, 49, 114);
+}
+#three{
+    background-image: url(goa\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#beach{
+    font-size: 40px;
+    color:black;
+}
+#ntr{
+    border-radius: 20px;
+    width: 500px;
+}
+#p1{
+    font-size: 25px;
+    color:aquamarine;
+}
+#condolim{
+    border-radius:20px;
+    margin-left:200px;
+}
+#abc{
+    font-size:40px; 
+}
+#condolim2{
+    border-radius:20px;
+display:inline-flex;
+margin-left:200px;
+}
+#pp{
+color:white;
+font-size:15px;
+}
+#anjuna{
+    font-size:40px;
+    color:antiquewhite;
+}
+#anjuna2{
+    border-radius:30px;
+}
+#bcd{
+    color:antiquewhite;
+    font-size: 15px;
+}
+#bdf{
+    font-size: 14px;
+    background-color: darkmagenta;
+    border-radius: 5px;
+}
+#yy{
+    color: antiquewhite;
+    
+}
+#vv{
+    color:white;
+    font-size: 17px;
+}
+#mm{
+    background-color: darkorange;
+}
+#uvm{
+    border-radius: 30px;
+}
+   #dns{
+    border-radius: 20px;
+    border: 7px solid rgb(72, 33, 227);
+    margin:60px;
+   } 
+   #sky{
+    border-radius:20px;
+    border: 7px solid rgb(44, 17, 150);
+    margin:50px;
+   }
+   #snd{
+    margin:50px;
+    border-radius:30px;
+    border: 7px solid black;
+   }
+   #vindha{
+    border-radius: 20px;
+    color:blanchedalmond;
+   }
+   #shankara{
+color:blanchedalmond;
+   }
+#li,#rrr{
+    background-color: darkmagenta;
+    border-radius: 10px;
+}
+#ui,#vi{
+    color:black;
+
+}
+
+
+
